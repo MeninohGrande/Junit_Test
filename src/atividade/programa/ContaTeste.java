@@ -10,6 +10,13 @@ import org.junit.jupiter.api.Test;
 
 import atividade.conta.Conta;
 
+/*
+*Autor: PEDRO A S CHAVES
+* 8° SEMESTRE
+*FACNET - BSI NOT
+*/
+
+
 public class ContaTeste {
 
 	Conta c = new Conta();
